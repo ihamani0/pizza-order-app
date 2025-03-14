@@ -1,12 +1,29 @@
-# React + Vite
+## 🍕 React Pizza Order App
+A simple and modern Pizza Order application built with React, Tailwind CSS, and Redux Toolkit. This app allows users to browse a menu, customize their orders, and place an order seamlessly.
+**📸 Screen**
+![image](https://github.com/user-attachments/assets/e723ad6d-4bc1-4cb8-bdbf-e4a4f28ac335)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**🚀 Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse a variety of pizzas
 
-## Expanding the ESLint configuration
+Add pizzas to the cart
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Customize order quantities
+
+Manage cart state using Redux Toolkit
+
+Responsive design with Tailwind CSS
+
+Real-time order status updates
+
+**🛠 Tech Stack**
+
+React - Frontend library
+
+Redux Toolkit - State management
+
+Tailwind CSS - Styling
+
+React Router - Navigation
