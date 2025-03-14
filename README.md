@@ -1,10 +1,12 @@
 ## 🍕 React Pizza Order App
 A simple and modern Pizza Order application built with React, Tailwind CSS, and Redux Toolkit. This app allows users to browse a menu, customize their orders, and place an order seamlessly.
-**📸 Screen**
+
+
+### 📸 Screen
 ![image](https://github.com/user-attachments/assets/e723ad6d-4bc1-4cb8-bdbf-e4a4f28ac335)
 
 
-**🚀 Features**
+### 🚀 Features 
 
 Browse a variety of pizzas
 
@@ -18,7 +20,7 @@ Responsive design with Tailwind CSS
 
 Real-time order status updates
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack 
 
 React - Frontend library
 
